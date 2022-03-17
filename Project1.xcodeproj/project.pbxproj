@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9C3E56AC27E38CE100DCA715 /* Gioco 6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A027E38CE000DCA715 /* Gioco 6.txt */; };
-		9C3E56AD27E38CE100DCA715 /* Soluzione Gioco 6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A127E38CE000DCA715 /* Soluzione Gioco 6.txt */; };
-		9C3E56AE27E38CE100DCA715 /* Gioco 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A227E38CE000DCA715 /* Gioco 2.txt */; };
-		9C3E56AF27E38CE100DCA715 /* Gioco 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A327E38CE000DCA715 /* Gioco 4.txt */; };
-		9C3E56B027E38CE100DCA715 /* Soluzione Gioco 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A427E38CE000DCA715 /* Soluzione Gioco 2.txt */; };
-		9C3E56B127E38CE100DCA715 /* Gioco 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A527E38CE000DCA715 /* Gioco 1.txt */; };
-		9C3E56B227E38CE100DCA715 /* Soluzione Gioco 3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A627E38CE000DCA715 /* Soluzione Gioco 3.txt */; };
-		9C3E56B327E38CE100DCA715 /* Soluzione Gioco 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A727E38CE000DCA715 /* Soluzione Gioco 1.txt */; };
-		9C3E56B427E38CE100DCA715 /* Gioco 3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A827E38CE000DCA715 /* Gioco 3.txt */; };
-		9C3E56B527E38CE100DCA715 /* Gioco 5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56A927E38CE000DCA715 /* Gioco 5.txt */; };
-		9C3E56B627E38CE100DCA715 /* Soluzione Gioco 5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56AA27E38CE000DCA715 /* Soluzione Gioco 5.txt */; };
-		9C3E56B727E38CE100DCA715 /* Soluzione Gioco 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C3E56AB27E38CE100DCA715 /* Soluzione Gioco 4.txt */; };
+		9C5E310327E396CF004D8B45 /* Gioco 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30F727E396CF004D8B45 /* Gioco 1.txt */; };
+		9C5E310427E396CF004D8B45 /* Gioco 5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30F827E396CF004D8B45 /* Gioco 5.txt */; };
+		9C5E310527E396CF004D8B45 /* Gioco 6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30F927E396CF004D8B45 /* Gioco 6.txt */; };
+		9C5E310627E396CF004D8B45 /* Gioco 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FA27E396CF004D8B45 /* Gioco 2.txt */; };
+		9C5E310727E396CF004D8B45 /* Gioco 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FB27E396CF004D8B45 /* Gioco 4.txt */; };
+		9C5E310827E396CF004D8B45 /* Soluzione Gioco 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FC27E396CF004D8B45 /* Soluzione Gioco 1.txt */; };
+		9C5E310927E396CF004D8B45 /* Soluzione Gioco 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FD27E396CF004D8B45 /* Soluzione Gioco 2.txt */; };
+		9C5E310A27E396CF004D8B45 /* Soluzione Gioco 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FE27E396CF004D8B45 /* Soluzione Gioco 4.txt */; };
+		9C5E310B27E396CF004D8B45 /* Soluzione Gioco 5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E30FF27E396CF004D8B45 /* Soluzione Gioco 5.txt */; };
+		9C5E310C27E396CF004D8B45 /* Soluzione Gioco 6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E310027E396CF004D8B45 /* Soluzione Gioco 6.txt */; };
+		9C5E310D27E396CF004D8B45 /* Soluzione Gioco 3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E310127E396CF004D8B45 /* Soluzione Gioco 3.txt */; };
+		9C5E310E27E396CF004D8B45 /* Gioco 3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9C5E310227E396CF004D8B45 /* Gioco 3.txt */; };
 		9C84FF8627E209C20016E637 /* GameTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C84FF8527E209C20016E637 /* GameTableViewController.swift */; };
 		9CA7029127E34CAF007F8A04 /* pexels-steve-johnson-1843717.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CA7029027E34CAF007F8A04 /* pexels-steve-johnson-1843717.jpg */; };
 		9CB9BB6D27DB422500DF66FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB9BB6C27DB422500DF66FF /* AppDelegate.swift */; };
@@ -30,18 +30,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9C3E56A027E38CE000DCA715 /* Gioco 6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 6.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 6.txt"; sourceTree = "<group>"; };
-		9C3E56A127E38CE000DCA715 /* Soluzione Gioco 6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 6.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 6.txt"; sourceTree = "<group>"; };
-		9C3E56A227E38CE000DCA715 /* Gioco 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 2.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 2.txt"; sourceTree = "<group>"; };
-		9C3E56A327E38CE000DCA715 /* Gioco 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 4.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 4.txt"; sourceTree = "<group>"; };
-		9C3E56A427E38CE000DCA715 /* Soluzione Gioco 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 2.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 2.txt"; sourceTree = "<group>"; };
-		9C3E56A527E38CE000DCA715 /* Gioco 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 1.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 1.txt"; sourceTree = "<group>"; };
-		9C3E56A627E38CE000DCA715 /* Soluzione Gioco 3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 3.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 3.txt"; sourceTree = "<group>"; };
-		9C3E56A727E38CE000DCA715 /* Soluzione Gioco 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 1.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 1.txt"; sourceTree = "<group>"; };
-		9C3E56A827E38CE000DCA715 /* Gioco 3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 3.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 3.txt"; sourceTree = "<group>"; };
-		9C3E56A927E38CE000DCA715 /* Gioco 5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Gioco 5.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Gioco 5.txt"; sourceTree = "<group>"; };
-		9C3E56AA27E38CE000DCA715 /* Soluzione Gioco 5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 5.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 5.txt"; sourceTree = "<group>"; };
-		9C3E56AB27E38CE100DCA715 /* Soluzione Gioco 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Soluzione Gioco 4.txt"; path = "../../../Desktop/Giochi_sequenzaParole/Soluzione Gioco 4.txt"; sourceTree = "<group>"; };
+		9C5E30F727E396CF004D8B45 /* Gioco 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 1.txt"; sourceTree = "<group>"; };
+		9C5E30F827E396CF004D8B45 /* Gioco 5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 5.txt"; sourceTree = "<group>"; };
+		9C5E30F927E396CF004D8B45 /* Gioco 6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 6.txt"; sourceTree = "<group>"; };
+		9C5E30FA27E396CF004D8B45 /* Gioco 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 2.txt"; sourceTree = "<group>"; };
+		9C5E30FB27E396CF004D8B45 /* Gioco 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 4.txt"; sourceTree = "<group>"; };
+		9C5E30FC27E396CF004D8B45 /* Soluzione Gioco 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 1.txt"; sourceTree = "<group>"; };
+		9C5E30FD27E396CF004D8B45 /* Soluzione Gioco 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 2.txt"; sourceTree = "<group>"; };
+		9C5E30FE27E396CF004D8B45 /* Soluzione Gioco 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 4.txt"; sourceTree = "<group>"; };
+		9C5E30FF27E396CF004D8B45 /* Soluzione Gioco 5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 5.txt"; sourceTree = "<group>"; };
+		9C5E310027E396CF004D8B45 /* Soluzione Gioco 6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 6.txt"; sourceTree = "<group>"; };
+		9C5E310127E396CF004D8B45 /* Soluzione Gioco 3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Soluzione Gioco 3.txt"; sourceTree = "<group>"; };
+		9C5E310227E396CF004D8B45 /* Gioco 3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gioco 3.txt"; sourceTree = "<group>"; };
 		9C84FF8527E209C20016E637 /* GameTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTableViewController.swift; sourceTree = "<group>"; };
 		9CA7029027E34CAF007F8A04 /* pexels-steve-johnson-1843717.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-steve-johnson-1843717.jpg"; sourceTree = "<group>"; };
 		9CB9BB6927DB422500DF66FF /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,18 +93,18 @@
 				9CB9BB7A27DB422600DF66FF /* Info.plist */,
 				9C84FF8527E209C20016E637 /* GameTableViewController.swift */,
 				9CA7029027E34CAF007F8A04 /* pexels-steve-johnson-1843717.jpg */,
-				9C3E56A527E38CE000DCA715 /* Gioco 1.txt */,
-				9C3E56A227E38CE000DCA715 /* Gioco 2.txt */,
-				9C3E56A827E38CE000DCA715 /* Gioco 3.txt */,
-				9C3E56A327E38CE000DCA715 /* Gioco 4.txt */,
-				9C3E56A927E38CE000DCA715 /* Gioco 5.txt */,
-				9C3E56A027E38CE000DCA715 /* Gioco 6.txt */,
-				9C3E56A727E38CE000DCA715 /* Soluzione Gioco 1.txt */,
-				9C3E56A427E38CE000DCA715 /* Soluzione Gioco 2.txt */,
-				9C3E56A627E38CE000DCA715 /* Soluzione Gioco 3.txt */,
-				9C3E56AB27E38CE100DCA715 /* Soluzione Gioco 4.txt */,
-				9C3E56AA27E38CE000DCA715 /* Soluzione Gioco 5.txt */,
-				9C3E56A127E38CE000DCA715 /* Soluzione Gioco 6.txt */,
+				9C5E30F727E396CF004D8B45 /* Gioco 1.txt */,
+				9C5E30FA27E396CF004D8B45 /* Gioco 2.txt */,
+				9C5E310227E396CF004D8B45 /* Gioco 3.txt */,
+				9C5E30FB27E396CF004D8B45 /* Gioco 4.txt */,
+				9C5E30F827E396CF004D8B45 /* Gioco 5.txt */,
+				9C5E30F927E396CF004D8B45 /* Gioco 6.txt */,
+				9C5E30FC27E396CF004D8B45 /* Soluzione Gioco 1.txt */,
+				9C5E30FD27E396CF004D8B45 /* Soluzione Gioco 2.txt */,
+				9C5E310127E396CF004D8B45 /* Soluzione Gioco 3.txt */,
+				9C5E30FE27E396CF004D8B45 /* Soluzione Gioco 4.txt */,
+				9C5E30FF27E396CF004D8B45 /* Soluzione Gioco 5.txt */,
+				9C5E310027E396CF004D8B45 /* Soluzione Gioco 6.txt */,
 			);
 			path = Project1;
 			sourceTree = "<group>";
@@ -167,21 +167,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C3E56B727E38CE100DCA715 /* Soluzione Gioco 4.txt in Resources */,
-				9C3E56B227E38CE100DCA715 /* Soluzione Gioco 3.txt in Resources */,
-				9C3E56AD27E38CE100DCA715 /* Soluzione Gioco 6.txt in Resources */,
-				9C3E56AC27E38CE100DCA715 /* Gioco 6.txt in Resources */,
-				9C3E56AE27E38CE100DCA715 /* Gioco 2.txt in Resources */,
-				9C3E56B427E38CE100DCA715 /* Gioco 3.txt in Resources */,
-				9C3E56B027E38CE100DCA715 /* Soluzione Gioco 2.txt in Resources */,
+				9C5E310B27E396CF004D8B45 /* Soluzione Gioco 5.txt in Resources */,
+				9C5E310A27E396CF004D8B45 /* Soluzione Gioco 4.txt in Resources */,
+				9C5E310527E396CF004D8B45 /* Gioco 6.txt in Resources */,
+				9C5E310327E396CF004D8B45 /* Gioco 1.txt in Resources */,
+				9C5E310927E396CF004D8B45 /* Soluzione Gioco 2.txt in Resources */,
 				9CB9BB7927DB422600DF66FF /* LaunchScreen.storyboard in Resources */,
-				9C3E56B127E38CE100DCA715 /* Gioco 1.txt in Resources */,
+				9C5E310D27E396CF004D8B45 /* Soluzione Gioco 3.txt in Resources */,
+				9C5E310727E396CF004D8B45 /* Gioco 4.txt in Resources */,
 				9CB9BB7627DB422600DF66FF /* Assets.xcassets in Resources */,
+				9C5E310C27E396CF004D8B45 /* Soluzione Gioco 6.txt in Resources */,
+				9C5E310827E396CF004D8B45 /* Soluzione Gioco 1.txt in Resources */,
+				9C5E310627E396CF004D8B45 /* Gioco 2.txt in Resources */,
+				9C5E310427E396CF004D8B45 /* Gioco 5.txt in Resources */,
+				9C5E310E27E396CF004D8B45 /* Gioco 3.txt in Resources */,
 				9CA7029127E34CAF007F8A04 /* pexels-steve-johnson-1843717.jpg in Resources */,
-				9C3E56B327E38CE100DCA715 /* Soluzione Gioco 1.txt in Resources */,
-				9C3E56B527E38CE100DCA715 /* Gioco 5.txt in Resources */,
-				9C3E56B627E38CE100DCA715 /* Soluzione Gioco 5.txt in Resources */,
-				9C3E56AF27E38CE100DCA715 /* Gioco 4.txt in Resources */,
 				9CB9BB7427DB422500DF66FF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

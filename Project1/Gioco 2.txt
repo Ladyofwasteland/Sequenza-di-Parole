@@ -1,0 +1,21 @@
+INIZIO: Omero
+Remo
+Barca
+Assedio
+Saline
+Lesina
+Biglietto
+Occhio
+Vista
+Sabine
+Vino
+Noè
+Arca
+Cavallo
+Romolo
+Odissea
+Bottiglie
+Cocchio
+Troia
+Visita
+FINE: Fori
